@@ -6,6 +6,7 @@
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
+  "editor.fontFamily": "'FantasqueSansM Nerd Font','Nova Nerd Font','Fira Code','FiraCode NF','JetBrains Mono',Consolas, 'Courier New', monospace",
   "typescript.tsdk": "node_modules/typescript/lib",
   "eslint.format.enable": true,
   "[javascript][typescript][typescriptreact]": {
